@@ -9,12 +9,6 @@ body {
     background: #f8f8f8;
 }
 
-header {
-    background-color: #fff;
-    border-bottom: 1px solid #ddd;
-    padding: 15px 0;
-}
-
 .container {
     width: 90%;
     margin: 0 auto;
